@@ -4,17 +4,19 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=ExampleKernel by osm0sis @ xda-developers
+kernel.string=SuperRyzenKernel by @WhysDev @ xda-developers
+do.devicecheck=1
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=maguro
-device.name2=toro
-device.name3=toroplus
-device.name4=tuna
-device.name5=
+device.name1=whyred
+device.name2=lavender
+device.name3=jasmine 
+device.name4=jasmine_sprout
+device.name5=wayne
+device.name6=tulip
 supported.versions=
 supported.patchlevels=
 '; } # end properties
