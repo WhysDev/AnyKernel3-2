@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=SaranRom New Generation by @WhysDev @ xda-developers
+kernel.string=SaranRom New Generation-HMP by @WhysDev @ xda-developers
 do.devicecheck=1
 do.devicecheck=1
 do.modules=0
