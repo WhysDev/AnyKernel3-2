@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Dark_Elixir_ryzen_SpecialEdition Kernel by @WhysDev @ xda-developers
+kernel.string=Super-Ryzen V3 by @WhysDev @ xda-developers
 do.devicecheck=1
 do.devicecheck=1
 do.modules=0
